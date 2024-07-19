@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BlogSpot/static/css/main.f855e6bc.css",
+    "main.js": "/BlogSpot/static/js/main.4b1297e7.js",
+    "static/js/453.b2157c12.chunk.js": "/BlogSpot/static/js/453.b2157c12.chunk.js",
+    "static/media/Spinner@1x-1.0s-200px-200px.gif": "/BlogSpot/static/media/Spinner@1x-1.0s-200px-200px.d819dfd91ecdc703b5f4.gif",
+    "index.html": "/BlogSpot/index.html",
+    "main.f855e6bc.css.map": "/BlogSpot/static/css/main.f855e6bc.css.map",
+    "main.4b1297e7.js.map": "/BlogSpot/static/js/main.4b1297e7.js.map",
+    "453.b2157c12.chunk.js.map": "/BlogSpot/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4b1297e7.js"
+  ]
+}
